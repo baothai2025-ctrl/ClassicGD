@@ -1,20 +1,9 @@
 {
-    "geode": "5.0.0",
+    "geode": "5.10.1",
     "version": "1.0.0",
-    "id": "baothai2025.classic_creator_layer",
-    "name": "Classic Creator Layer",
-    "developer": "baothai2025",
-    "description": "Restores the clean and minimalist Geometry Dash 1.0 style layout to the Creator menu. Safely hides modern buttons and tabs like Map Packs, Gauntlets, Versus, Lists, Paths, Vault, and Daily rewards, keeping only the essential Create, Saved, Featured, and Search options centered on your screen.",
-    "repository": "",
-    "gd": {
-        "win": "2.2081",
-        "android": "2.2081"
-    },
-    "dependencies": [
-        {
-            "id": "geode.node-ids",
-            "version": ">=1.23.0",
-            "importance": "required"
-        }
-    ]
+    "id": "lofracotestino.better_creator_layer",
+    "name": "Better Creator Layer",
+    "developer": "soaghetti",
+    "description": "Clean up the Creator Layer by hiding unused buttons safely.",
+    "dependencies": []
 }
