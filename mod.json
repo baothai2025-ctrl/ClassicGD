@@ -1,0 +1,9 @@
+{
+    "geode": "5.10.1",
+    "version": "1.0.0",
+    "id": "baothai2025.clean_creator_screen",
+    "name": "Clean Creator Screen",
+    "developer": "baothai2025",
+    "description": "hide button",
+    "dependencies": []
+}
