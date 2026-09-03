@@ -1,9 +1,9 @@
 {
     "geode": "5.10.1",
     "version": "1.0.0",
-    "id": "lofracotestino.better_creator_layer",
-    "name": "Better Creator Layer",
-    "developer": "soaghetti",
-    "description": "Clean up the Creator Layer by hiding unused buttons safely.",
+    "id": "baothai2025.clean_creator_screen",
+    "name": "Clean Creator Screen",
+    "developer": "baothai2025",
+    "description": "hide button gd comeback clean",
     "dependencies": []
 }
